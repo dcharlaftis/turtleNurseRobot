@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="roomba">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/roombacomm-processing.zip!/" />
+      <root url="jar://$PROJECT_DIR$/roombacomm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

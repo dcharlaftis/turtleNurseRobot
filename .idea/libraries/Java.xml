@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packaging/RoombaCommTest.app/Contents/Resources/Java/roombacomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packaging/RoombaCommTest.app/Contents/Resources/Java/RXTXcomm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

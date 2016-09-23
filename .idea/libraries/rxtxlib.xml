@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="rxtxlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rxtxlib/RXTXcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rxtxlib/bluecove-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
